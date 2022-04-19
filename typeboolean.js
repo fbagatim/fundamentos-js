@@ -8,3 +8,4 @@ const texto1 = "Corinthians";
 const texto2 = "Corinthians";
 
 console.log(texto1 === texto2)
+
